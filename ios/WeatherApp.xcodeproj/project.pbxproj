@@ -14,6 +14,17 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-WeatherApp-WeatherAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-WeatherApp-WeatherAppTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		75440D5A2773499FB02512C4 /* IBMPlexSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB3BFFCAB2CF488F969C353F /* IBMPlexSans-Bold.ttf */; };
+		187BDA7E395447C19003E0E0 /* IBMPlexSans-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 075D743C1CD54F9D99FAFBCE /* IBMPlexSans-ExtraLight.ttf */; };
+		0EAF5B40111F47D59A7AA3F1 /* IBMPlexSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A8BC834773464FE7BCD27F26 /* IBMPlexSans-Light.ttf */; };
+		38A422440DBB4182A874C851 /* IBMPlexSans-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A68B14D9A052405E8CFA97FD /* IBMPlexSans-Medium.ttf */; };
+		F306910A51384A9B99A348B0 /* IBMPlexSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E20D8542C6E405894861D45 /* IBMPlexSans-Regular.ttf */; };
+		94615EDDECB64845B95E6CF6 /* IBMPlexSans-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 65EA7CC9DF304499A1AE0817 /* IBMPlexSans-SemiBold.ttf */; };
+		E8D9A865485647D7B114900D /* IBMPlexSans-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 24EA9FD33FCE46EFBD8ABC6F /* IBMPlexSans-Thin.ttf */; };
+		77F0BAD74F974A9B912844D9 /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 228F2C9E26DA4C8AA09366B3 /* OpenSans-Bold.ttf */; };
+		7E6773BCE12745D2AE108EA2 /* OpenSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 13922AA7799F4BA1AFD78192 /* OpenSans-Light.ttf */; };
+		AF9AB500D46640D9B84BA7A2 /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 420144A2E9A0452B81DDEE5B /* OpenSans-Regular.ttf */; };
+		22FA1CE0B0CC4E6B8DE8C1E8 /* OpenSans-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 88B930851D5240FE87844933 /* OpenSans-SemiBold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +55,17 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = WeatherApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-WeatherApp-WeatherAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeatherApp-WeatherAppTests.release.xcconfig"; path = "Target Support Files/Pods-WeatherApp-WeatherAppTests/Pods-WeatherApp-WeatherAppTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		FB3BFFCAB2CF488F969C353F /* IBMPlexSans-Bold.ttf */ = {isa = PBXFileReference; name = "IBMPlexSans-Bold.ttf"; path = "../src/assets/fonts/IBMPlexSans-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		075D743C1CD54F9D99FAFBCE /* IBMPlexSans-ExtraLight.ttf */ = {isa = PBXFileReference; name = "IBMPlexSans-ExtraLight.ttf"; path = "../src/assets/fonts/IBMPlexSans-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A8BC834773464FE7BCD27F26 /* IBMPlexSans-Light.ttf */ = {isa = PBXFileReference; name = "IBMPlexSans-Light.ttf"; path = "../src/assets/fonts/IBMPlexSans-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A68B14D9A052405E8CFA97FD /* IBMPlexSans-Medium.ttf */ = {isa = PBXFileReference; name = "IBMPlexSans-Medium.ttf"; path = "../src/assets/fonts/IBMPlexSans-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8E20D8542C6E405894861D45 /* IBMPlexSans-Regular.ttf */ = {isa = PBXFileReference; name = "IBMPlexSans-Regular.ttf"; path = "../src/assets/fonts/IBMPlexSans-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		65EA7CC9DF304499A1AE0817 /* IBMPlexSans-SemiBold.ttf */ = {isa = PBXFileReference; name = "IBMPlexSans-SemiBold.ttf"; path = "../src/assets/fonts/IBMPlexSans-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		24EA9FD33FCE46EFBD8ABC6F /* IBMPlexSans-Thin.ttf */ = {isa = PBXFileReference; name = "IBMPlexSans-Thin.ttf"; path = "../src/assets/fonts/IBMPlexSans-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		228F2C9E26DA4C8AA09366B3 /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; name = "OpenSans-Bold.ttf"; path = "../src/assets/fonts/OpenSans-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		13922AA7799F4BA1AFD78192 /* OpenSans-Light.ttf */ = {isa = PBXFileReference; name = "OpenSans-Light.ttf"; path = "../src/assets/fonts/OpenSans-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		420144A2E9A0452B81DDEE5B /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; name = "OpenSans-Regular.ttf"; path = "../src/assets/fonts/OpenSans-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		88B930851D5240FE87844933 /* OpenSans-SemiBold.ttf */ = {isa = PBXFileReference; name = "OpenSans-SemiBold.ttf"; path = "../src/assets/fonts/OpenSans-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +144,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				2E4A3C53A9E24F61B3274F92 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -147,6 +170,25 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		2E4A3C53A9E24F61B3274F92 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				FB3BFFCAB2CF488F969C353F /* IBMPlexSans-Bold.ttf */,
+				075D743C1CD54F9D99FAFBCE /* IBMPlexSans-ExtraLight.ttf */,
+				A8BC834773464FE7BCD27F26 /* IBMPlexSans-Light.ttf */,
+				A68B14D9A052405E8CFA97FD /* IBMPlexSans-Medium.ttf */,
+				8E20D8542C6E405894861D45 /* IBMPlexSans-Regular.ttf */,
+				65EA7CC9DF304499A1AE0817 /* IBMPlexSans-SemiBold.ttf */,
+				24EA9FD33FCE46EFBD8ABC6F /* IBMPlexSans-Thin.ttf */,
+				228F2C9E26DA4C8AA09366B3 /* OpenSans-Bold.ttf */,
+				13922AA7799F4BA1AFD78192 /* OpenSans-Light.ttf */,
+				420144A2E9A0452B81DDEE5B /* OpenSans-Regular.ttf */,
+				88B930851D5240FE87844933 /* OpenSans-SemiBold.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -243,6 +285,17 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				75440D5A2773499FB02512C4 /* IBMPlexSans-Bold.ttf in Resources */,
+				187BDA7E395447C19003E0E0 /* IBMPlexSans-ExtraLight.ttf in Resources */,
+				0EAF5B40111F47D59A7AA3F1 /* IBMPlexSans-Light.ttf in Resources */,
+				38A422440DBB4182A874C851 /* IBMPlexSans-Medium.ttf in Resources */,
+				F306910A51384A9B99A348B0 /* IBMPlexSans-Regular.ttf in Resources */,
+				94615EDDECB64845B95E6CF6 /* IBMPlexSans-SemiBold.ttf in Resources */,
+				E8D9A865485647D7B114900D /* IBMPlexSans-Thin.ttf in Resources */,
+				77F0BAD74F974A9B912844D9 /* OpenSans-Bold.ttf in Resources */,
+				7E6773BCE12745D2AE108EA2 /* OpenSans-Light.ttf in Resources */,
+				AF9AB500D46640D9B84BA7A2 /* OpenSans-Regular.ttf in Resources */,
+				22FA1CE0B0CC4E6B8DE8C1E8 /* OpenSans-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
